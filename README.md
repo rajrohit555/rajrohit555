@@ -2,7 +2,7 @@
 
 🎓 MCA Graduate | ☁️ Aspiring Cloud & DevOps Engineer | 💻 Programming Enthusiast
 
-I'm a Computer Applications graduate building my skills in Cloud Computing and DevOps through hands-on learning at [ClouderWay Academy](https://clouderway.com).
+I'm a Computer Applications graduate building my skills in Cloud Computing and DevOps through hands-on learning at [ClouderWay Academy](https://academy.clouderway.com/).
 
 I'm interested in cloud infrastructure, Linux administration, automation, and deploying applications. My goal is to strengthen my practical knowledge by building projects and learning industry-relevant tools.
 
